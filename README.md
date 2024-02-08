@@ -15,7 +15,7 @@ This project constitutes a pivotal component of my **Bharat Intern Virtual Inter
 
 
 
-![Logo](https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png)
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhousing.com%2Fnews%2Fall-about-the-iris-flower%2F&psig=AOvVaw2nvNhZdjfVTAivy7aZINYH&ust=1707475473903000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjtufnHm4QDFQAAAAAdAAAAABAE)
 
 
 ## 🚀 About Me
