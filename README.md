@@ -15,7 +15,7 @@ This project constitutes a pivotal component of my **Bharat Intern Virtual Inter
 
 
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhousing.com%2Fnews%2Fall-about-the-iris-flower%2F&psig=AOvVaw2nvNhZdjfVTAivy7aZINYH&ust=1707475473903000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjtufnHm4QDFQAAAAAdAAAAABAE)
+![Logo](https://housing.com/news/wp-content/uploads/2022/11/iris-flower-compressed.jpg)
 
 
 ## 🚀 About Me
